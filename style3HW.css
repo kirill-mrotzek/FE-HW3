@@ -1,0 +1,94 @@
+h1{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 20px;
+}
+.table1{
+    border: 1px solid black;
+}
+.table1 th{
+    border: 1px solid black;
+}
+.table1 img{
+    width: 40px;
+}
+.US{
+    border-right: 0px;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.UK{
+    border-right: 0px;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black; 
+}
+.JP{
+    border-right: 0px;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.GE{
+    border-right: 0px;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.EU{
+    border-right: 1px solid black;
+    border-left: 0px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.C1{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black; 
+}
+.R1{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.C2{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.R2{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.C3{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.R3{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.C4{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.R4{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
